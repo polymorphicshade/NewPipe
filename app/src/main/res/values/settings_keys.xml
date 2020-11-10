@@ -21,7 +21,6 @@
 
     <string name="use_external_video_player_key" translatable="false">use_external_video_player</string>
     <string name="use_external_audio_player_key" translatable="false">use_external_audio_player</string>
-    <string name="autoplay_through_intent_key" translatable="false">autoplay_through_intent</string>
     <string name="use_old_player_key" translatable="false">use_oldplayer</string>
 
     <string name="volume_gesture_control_key" translatable="false">volume_gesture_control</string>
@@ -131,6 +130,8 @@
     <string name="notification_slot_compact_0_key" translatable="false">notification_slot_compact_0_key</string>
     <string name="notification_slot_compact_1_key" translatable="false">notification_slot_compact_1_key</string>
     <string name="notification_slot_compact_2_key" translatable="false">notification_slot_compact_2_key</string>
+
+    <string name="notification_colorize_key" translatable="false">notification_colorize_key</string>
 
     <string name="video_mp4_key" translatable="false">video_mp4</string>
     <string name="video_webm_key" translatable="false">video_webm</string>
@@ -1082,6 +1083,7 @@
         <item>pt-pt</item>
         <item>ro</item>
         <item>ru</item>
+        <item>sat</item>
         <item>sc</item>
         <item>sk</item>
         <item>sl</item>
@@ -1157,6 +1159,7 @@
         <item>Português (PT)</item>
         <item>Română</item>
         <item>русский язык</item>
+        <item>ᱥᱟᱱᱛᱟᱲᱤ</item>
         <item>sardu</item>
         <item>Slovenčina</item>
         <item>Slovenščina</item>

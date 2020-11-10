@@ -59,7 +59,6 @@
     <string name="popup_playing_toast">Spelar upp i popup-läge</string>
     <string name="content">Innehåll</string>
     <string name="show_age_restricted_content_title">Åldersbegränsat innehåll</string>
-    <string name="video_is_age_restricted">Videon är åldersbegränsad. Du kan aktivera åldersbegränsade videor i inställningar.</string>
     <string name="duration_live">Live</string>
     <string name="downloads">Nedladdningar</string>
     <string name="downloads_title">Nedladdningar</string>
@@ -144,9 +143,9 @@
     <string name="audio">Ljud</string>
     <string name="retry">Försök igen</string>
     <string name="storage_permission_denied">Bevilja åtkomst till lagringsutrymme först</string>
-    <string name="short_thousand">K</string>
+    <string name="short_thousand">T.</string>
     <string name="short_million">mn</string>
-    <string name="short_billion">B</string>
+    <string name="short_billion">Mrd.</string>
     <string name="no_subscribers">Inga prenumeranter</string>
     <plurals name="subscribers">
         <item quantity="one">%s prenumerant</item>
